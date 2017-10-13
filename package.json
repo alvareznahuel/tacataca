@@ -1,11 +1,11 @@
 {
-  "name": "tacaTacaApi",
+  "name": "tacataca",
   "version": "1.0.0",
   "description": "RESTful Api for Taca-Taca App.",
   "main": "index.js",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "nodemon server-tacataca.js"
   },
   "keywords": [
     "RESTful"
